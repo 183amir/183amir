@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on face deepfake detection using foundation models.
+- 🌱 I’m currently learning software design patterns, MLOps, and cloud solution architectures.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirmohammadi) or [email](183.amir@gmail.com)
+- ⚡ Fun fact: I love learning new technologies and have been using Ansible recently to maintain my home lab.
