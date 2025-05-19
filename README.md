@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirmohammadi) or [email](183.amir@gmail.com)
 - ⚡ Fun fact: I love learning new technologies and have been using Ansible recently to maintain my home lab.
 
-A lot my coding is not public but some of my older development can be seen in https://bit.ly/39RMOGS https://bit.ly/33iFfYN https://bit.ly/3i3RuMV https://bit.ly/39RN9cC
+A lot my coding is not public but some of my older development can be seen in:
+* https://gitlab.idiap.ch/groups/bob/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&assignee_username=amohammadi
+* https://gitlab.idiap.ch/groups/bob/-/issues?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
+* https://gitlab.idiap.ch/groups/beat/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
+* https://gitlab.idiap.ch/groups/beat/-/issues?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
+
+Recently I created a very nice CI using pixi for GridTK that you can see here: https://github.com/idiap/gridtk/pull/1
