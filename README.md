@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on face deepfake detection using foundation models.
 - 🌱 I’m currently learning software design patterns, MLOps, and cloud solution architectures.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amirmohammadi) or [email](183.amir@gmail.com)
-- ⚡ Fun fact: I love learning new technologies and have been using Ansible recently to maintain my home lab.
+- ⚡ Fun fact: I love learning new technologies and have been using:
+  - Ansible to maintain my home lab
+  - [Marimo](https://marimo.io) instead of Jupyter Notebooks
 
-A lot my coding is not public but some of my older development can be seen in:
-* https://gitlab.idiap.ch/groups/bob/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&assignee_username=amohammadi
-* https://gitlab.idiap.ch/groups/bob/-/issues?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
-* https://gitlab.idiap.ch/groups/beat/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
-* https://gitlab.idiap.ch/groups/beat/-/issues?scope=all&utf8=%E2%9C%93&state=all&author_username=amohammadi
-
-Recently I created a very nice CI using pixi for GridTK that you can see here: https://github.com/idiap/gridtk/pull/1
+## Code Showcase
+* An example MLOps code demo that deploys a model and visualizes the model predictions: [mlops-task](https://github.com/183amir/mlops-task)
+* A CI that I setup using [pixi](https://pixi.sh) for GridTK that you can see here: https://github.com/idiap/gridtk/pull/1
+* Designed a general purpose machine learning pipeline library: https://gitlab.idiap.ch/bob/bob.pipelines
