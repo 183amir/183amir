@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ## Code Showcase
 * An example MLOps code demo that deploys a model and visualizes the model predictions: [mlops-task](https://github.com/183amir/mlops-task)
 * A CI that I setup using [pixi](https://pixi.sh) for GridTK that you can see here: https://github.com/idiap/gridtk/pull/1
+* GridTK: Slurm Job Management for Humans: https://github.com/idiap/gridtk
 * Designed a general purpose machine learning pipeline library: https://gitlab.idiap.ch/bob/bob.pipelines
